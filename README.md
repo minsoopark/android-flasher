@@ -15,3 +15,8 @@ You can use it instead of `flash-all.sh` or `flash-all.bat`.
 Flasher is now developing, so it is not perfect yet.
 
 If you want to test for it, please backup your data first.
+
+# License
+[The MIT License (MIT)](https://github.com/minsoopark/android-flasher/blob/master/LICENSE)
+
+Copyright (c) 2015 Minsoo Park
