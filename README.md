@@ -1,5 +1,5 @@
 # Flasher
-Flasher is a shell script generator which helps you to flash the Android factory image without removing user datas.
+Flasher is a shell script generator which helps you to flash the Android factory image without removing user data.
 
 You can use it instead of `flash-all.sh` or `flash-all.bat`.
 
@@ -14,4 +14,4 @@ You can use it instead of `flash-all.sh` or `flash-all.bat`.
 # Caution
 Flasher is now developing, so it is not perfect yet.
 
-If you want to test for it, please backup your datas first.
+If you want to test for it, please backup your data first.
