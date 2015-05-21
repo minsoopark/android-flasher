@@ -13,7 +13,7 @@ You can use it instead of ``flash-all.sh`` or ``flash-all.bat``.
 Installation
 ~~~~~~~~~~~~
 
-You can install Starbucks with ``pip``
+You can install android-flasher with ``pip``
 
 ::
 
