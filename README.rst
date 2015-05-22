@@ -29,6 +29,13 @@ How to use
 4. Now reboot and enter the bootloader.
 5. Execute the ``flasher.sh`` script.
 
+If you meet an error like ``fastboot: command not found``, add following line in
+ your ``~/.bash_profile``.
+
+::
+
+    export PATH="/Users/mspark/Downloads/android-sdk-macosx/platform-tools:$PATH"
+
 
 License
 ~~~~~~~

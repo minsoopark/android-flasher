@@ -23,6 +23,14 @@ def generate():
             elif f.startswith('radio'):
                 radio = f
 
+    if not bootloader:
+        print 'Bootloader not found!'
+        return
+
+    if not radio:
+        print 'Radio not found!'
+        return
+
     print 'Bootloader Detected - %s' % bootloader
     print 'Radio Detected - %s' % radio
 

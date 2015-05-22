@@ -3,7 +3,7 @@ from setuptools import setup, find_packages
 setup(
     name='android-flasher',
     packages=find_packages(),
-    version='1.2',
+    version='1.3',
     description='Flash the Android factory image without removing your data.',
     long_description=open('README.rst').read(),
     license='MIT License',
