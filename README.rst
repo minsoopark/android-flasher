@@ -36,6 +36,9 @@ If you meet an error like ``fastboot: command not found``, add following line in
     export PATH="/path/to/android/sdk/platform-tools:$PATH"
 
 
+*Warning: You need to unlock your device's bootloader first!*
+
+
 License
 ~~~~~~~
 
