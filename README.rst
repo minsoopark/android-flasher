@@ -1,7 +1,7 @@
 android-flasher
 ===============
 
-.. image:: https://pypip.in/v/android-flasher/badge.svg
+.. image:: https://img.shields.io/pypi/v/android-flasher.svg
     :target: https://pypi.python.org/pypi/android-flasher/
 
 Flasher is a shell script generator which helps you to flash the Android
